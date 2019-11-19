@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TreviExam</string>
+
+    <string name="main_input_desc">請輸入兩個大於0的整數</string>
+    <string name="main_input_column">Column</string>
+    <string name="main_input_row">Row</string>
+    <string name="main_submit">go</string>
+    <string name="confirm">確定</string>
+    <string name="random">隨機</string>
+</resources>
